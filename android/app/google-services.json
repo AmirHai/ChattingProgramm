@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407207992939",
+    "firebase_url": "https://chatting-programm.firebaseio.com",
+    "project_id": "chatting-programm",
+    "storage_bucket": "chatting-programm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407207992939:android:b6c5a60dff87cbf25a9b2e",
+        "android_client_info": {
+          "package_name": "com.ChattingProgramm.AmirHai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407207992939-o9fdp6eniql0goig8dt7c8ajr825hrvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3YtTESGM3PO2IvH435lvhUsqoZV6z5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407207992939-o9fdp6eniql0goig8dt7c8ajr825hrvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
